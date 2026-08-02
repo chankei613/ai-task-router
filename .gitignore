@@ -1,0 +1,10 @@
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+/ai-task-router
+/ai-task-router.exe
+build/bin/
+frontend/dist/
+frontend/node_modules/
+/ai-task-router-*.zip
