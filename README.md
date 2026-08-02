@@ -9,13 +9,17 @@
 検証する」と決めたのと同じ考え方で、本製品は「AIを呼ばずにどのモデルを使うべきか決定する」
 ことに徹する。
 
-## 現在のステータス: Phase 1-2（ルーティングエンジン・CRUD API・CLI）完了
+## 現在のステータス: v0.1.0 リリース済み
 
 - [x] Phase 0: プロジェクト立ち上げ
 - [x] Phase 1: データモデル・ルーティングエンジン・CRUD API
 - [x] Phase 2: CLI（`trcli`、CI/CD組み込み用）
-- [ ] Phase 3: Wails + Vue3 UI
-- [ ] Phase 4: 仕上げ・署名・配布・LP
+- [x] Phase 3: Wails + Vue3 UI
+- [x] Phase 4: 仕上げ・署名・配布・LP
+
+macOSアプリ（署名・公証済み）は [GitHub Releases](https://github.com/chankei613/ai-task-router/releases) から、
+ランディングページは https://ai-task-router-three.vercel.app/ から入手できる。
+アプリ内のHelpタブに使い方の説明がある。
 
 ## 使い方（開発用ヘッドレスサーバー）
 
